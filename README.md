@@ -102,7 +102,7 @@ Successfully developed and tested a generative AI mental health chatbot capable 
 ```text
 AI-ML-Internship-Tasks
 │
-├── task1_iris_visualization.ipynb
+├── Iris_visualization.ipynb
 ├── heart_disease_prediction.ipynb
 ├── mental_health_chatbot.ipynb
 ├── README.md
